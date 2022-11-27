@@ -1,0 +1,2 @@
+# PyDbAdmin
+使用python写的简单查看sqlite3的Windows客户端
